@@ -16,7 +16,7 @@ jobs:
 
       - checkout 
 
-      - run: makeasdfgfhfh"" deps 
+      - run: make deps 
 
       - run: make test       
 
